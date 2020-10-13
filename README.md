@@ -1,6 +1,13 @@
 # SpiderForWUSTEmploymentInformation
 A Scrapy Project to crawl the Employment Advisory Council Information in WUST
 
+# Package requirement
+To start this project, you need `Scrapy`.
+If you already have Python3 Enviroment, you can use the following command:
+```
+pip install scrapy
+```
+
 # Start the project
 ```
 cd wust
