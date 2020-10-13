@@ -1,4 +1,4 @@
-# SpiderForWUSTEmploymentInformation
+# Spider For WUST Employment Information
 A Scrapy Project to crawl the Employment Advisory Council Information in WUST
 
 # Package requirement
